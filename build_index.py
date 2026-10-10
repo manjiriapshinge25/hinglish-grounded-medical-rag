@@ -1,5 +1,7 @@
 """Build the FAISS index over the MultiCaRe evidence corpus.
 
+Manjiri Apshinge.
+
 Run once to create persistent index + metadata files that the
 RAG pipeline and Streamlit app load at startup.
 
